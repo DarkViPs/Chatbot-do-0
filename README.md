@@ -1,4 +1,4 @@
-# Criando um bot para whatsapp usando o venom!
+# Criando um bot do 0 para whatsapp usando o venom!
 
 ![enter image description here](https://ilovecode.com.br/wp-content/uploads/2018/12/Sem-t%C3%ADtulo-1.png)
 
