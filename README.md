@@ -103,7 +103,7 @@ Após isso inicie o termianl e digite
 
 Basta escanear o codigo qr que aparecer com um whatsapp secundário na opção "Whatsapp Web"
 
-E seu bot ja esta pronto, envie a mensagem "Ola" para o numero que voçê escaneou o codigo, como na imagem abaixo:
+E seu bot ja esta pronto, envie a mensagem "Ola" para o numero que você escaneou o codigo, como na imagem abaixo:
 
 ![enter image description here](https://i.ibb.co/x1wpd5q/Whats-App-Image-2021-04-28-at-05-26-58.jpg)
 
